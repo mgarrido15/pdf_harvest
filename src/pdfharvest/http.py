@@ -1,12 +1,12 @@
-# src/pdfharvest/http.py
 from __future__ import annotations
 import asyncio
 import logging
-import urllib.parse
+import uuid
+import aiofiles
 from pathlib import Path
 from typing import Any, Dict, Optional
 
-import httpx  # library for making HTTP requests
+import httpx  
 
 CROSSREF = "https://api.crossref.org/works/"
 UNPAYWALL = "https://api.unpaywall.org/v2/"
@@ -17,7 +17,6 @@ async def backoff_request(
     url: str,
     **kwargs: Any,
 ) -> httpx.Response:
-    """Perform an HTTP request with retry and backoff for transient errors."""
     log = logging.getLogger("pdfharvest.http")
     max_tries = 6
     base = 0.5
@@ -43,25 +42,20 @@ async def backoff_request(
     raise RuntimeError("backoff_request exhausted retries")
 
 async def fetch_crossref(client: httpx.AsyncClient, doi: str) -> Dict[str, Any]:
-    """Fetch metadata from Crossref for a DOI."""
-    url = CROSSREF + urllib.parse.quote(doi, safe="")
+    url = f"{CROSSREF}{doi}"
     r = await backoff_request(client, "GET", url, timeout=20)
     data = r.json()
     return data.get("message", {}) if isinstance(data, dict) else {}
 
 async def fetch_unpaywall(client: httpx.AsyncClient, doi: str, email: str) -> Dict[str, Any]:
-    """Fetch metadata from Unpaywall for a DOI."""
-    url = UNPAYWALL + urllib.parse.quote(doi, safe="")
+    url = f"{UNPAYWALL}{doi}?email={email}"
     r = await backoff_request(client, "GET", url, params={"email": email}, timeout=20)
     if r.status_code == 404:
         return {}
-    try:
-        return r.json()
-    except ValueError:
-        return {}
+    return r.json()
+
 
 def best_pdf_url(ua: Dict[str, Any]) -> Optional[str]:
-    """Extract best PDF URL from Unpaywall metadata."""
     if not ua:
         return None
     loc = ua.get("best_oa_location") or {}
@@ -74,25 +68,26 @@ def best_pdf_url(ua: Dict[str, Any]) -> Optional[str]:
             return pdf
     return None
 
-async def download_pdf(client: httpx.AsyncClient, url: str, out_path: Path) -> bool:
-    """Download a PDF file from URL and save to disk."""
-    log = logging.getLogger("pdfharvest.http")
+async def download_pdf(client: httpx.AsyncClient, url: str, out_path) -> bool:
     try:
-        async with client.stream("GET", url, timeout=40) as r:
-            if r.status_code >= 400:
-                log.warning(f"Failed to download PDF: {r.status_code}")
+        temp_path = out_path.with_stem(out_path.stem + "_" + str(uuid.uuid4())[:8])
+
+        async with client.stream("GET", url, follow_redirects=True, timeout=30) as r:
+            if r.status_code != 200:
                 return False
-            out_path.parent.mkdir(parents=True, exist_ok=True)
-            with out_path.open("wb") as f:
+
+            content_type = r.headers.get("Content-Type", "").lower()
+            if "pdf" not in content_type:
+                print(f"⚠️ Not a valid PDF: {url} (type={content_type})")
+                return False
+
+            async with aiofiles.open(temp_path, "wb") as f:
                 async for chunk in r.aiter_bytes():
-                    if chunk:
-                        f.write(chunk)
-        with out_path.open("rb") as f:
-            if f.read(4) != b"%PDF":
-                log.warning(f"Not a valid PDF: {url}")
-                out_path.unlink(missing_ok=True)
-                return False
+                    await f.write(chunk)
+
+        temp_path.replace(out_path)
         return True
-    except (httpx.RequestError, OSError) as e:
-        log.warning(f"PDF download failed {url}: {e}")
+
+    except Exception as e:
+        print(f"PDF download failed {url}: {e}")
         return False

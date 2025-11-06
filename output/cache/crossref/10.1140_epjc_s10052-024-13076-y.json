@@ -1,3 +1,3267 @@
 {
-  "title": "Fake Paper"
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        6
+      ]
+    ],
+    "date-time": "2025-10-06T18:29:50Z",
+    "timestamp": 1759775390972,
+    "version": "3.40.5"
+  },
+  "reference-count": 47,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "9",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            9,
+            11
+          ]
+        ],
+        "date-time": "2024-09-11T00:00:00Z",
+        "timestamp": 1726012800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            9,
+            11
+          ]
+        ],
+        "date-time": "2024-09-11T00:00:00Z",
+        "timestamp": 1726012800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Eur. Phys. J. C"
+  ],
+  "abstract": "<jats:title>Abstract</jats:title>\n          <jats:p>This paper presents the energy dependence of multiplicity and net-electric charge fluctuations in <jats:italic>p+p</jats:italic> interactions at beam momenta 20, 31, 40, 80, and 158 <jats:inline-formula>\n              <jats:alternatives>\n                <jats:tex-math>$$\\text{ Ge }\\hspace{-1.00006pt}\\text{ V }\\!/\\!c$$</jats:tex-math>\n                <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:mrow>\n                    <mml:mspace/>\n                    <mml:mtext>Ge</mml:mtext>\n                    <mml:mspace/>\n                    <mml:mspace/>\n                    <mml:mspace/>\n                    <mml:mtext>V</mml:mtext>\n                    <mml:mspace/>\n                    <mml:mspace/>\n                    <mml:mo>/</mml:mo>\n                    <mml:mspace/>\n                    <mml:mi>c</mml:mi>\n                  </mml:mrow>\n                </mml:math>\n              </jats:alternatives>\n            </jats:inline-formula>. Results are corrected for the experimental biases and quantified with the use of cumulants and factorial cumulants. Cumulant ratios are an essential tool in the search for the critical point of strongly interacting matter in heavy ion collisions. Measurements performed in <jats:italic>p+p</jats:italic> interactions provide a vital baseline estimation in these studies. The measured signals are compared with the string hadronic models <jats:sc>Epos1.99</jats:sc> and FTFP-BERT.</jats:p>",
+  "DOI": "10.1140/epjc/s10052-024-13076-y",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        11
+      ]
+    ],
+    "date-time": "2024-09-11T14:04:01Z",
+    "timestamp": 1726063441000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 2,
+  "title": [
+    "Measurements of higher-order cumulants of multiplicity and net-electric charge distributions in inelastic proton\u2013proton interactions by NA61/SHINE"
+  ],
+  "prefix": "10.1140",
+  "volume": "84",
+  "author": [
+    {
+      "name": "NA61/SHINE\u00a0Collaboration",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5746-1268",
+      "authenticated-orcid": false,
+      "given": "H.",
+      "family": "Adhikary",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00krbh354",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Jan Kochanowski University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-7019-5451",
+      "authenticated-orcid": false,
+      "given": "P.",
+      "family": "Adrich",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00nzsxq20",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "National Centre for Nuclear Research"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3494-9383",
+      "authenticated-orcid": false,
+      "given": "K. K.",
+      "family": "Allison",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/02ttsq026",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Colorado"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0004-7572-3817",
+      "authenticated-orcid": false,
+      "given": "N.",
+      "family": "Amin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/04t3en479",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Karlsruhe Institute of Technology"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-0437-9292",
+      "authenticated-orcid": false,
+      "given": "E. V.",
+      "family": "Andronov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2316-9565",
+      "authenticated-orcid": false,
+      "given": "I.-C.",
+      "family": "Arsene",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01xtthb56",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Oslo"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0005-8859-1099",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Bajda",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/03bqmcz70",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Jagiellonian University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6957-573X",
+      "authenticated-orcid": false,
+      "given": "Y.",
+      "family": "Balkova",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/0104rcc94",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Silesia"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5283-0992",
+      "authenticated-orcid": false,
+      "given": "D.",
+      "family": "Battaglia",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00mkhxb43",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Notre Dame"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-0358-0576",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "Bazgir",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00krbh354",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Jan Kochanowski University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5709-4747",
+      "authenticated-orcid": false,
+      "given": "S.",
+      "family": "Bhosale",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01dr6c206",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Institute of Nuclear Physics, Polish Academy of Sciences"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-8267-4874",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Bielewicz",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00nzsxq20",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "National Centre for Nuclear Research"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1597-8859",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "Blondel",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01hg8p552",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "LPNHE, Sorbonne University, CNRS/IN2P3"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-7738-2041",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Bogomilov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/02jv3k292",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Sofia"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2773-9668",
+      "authenticated-orcid": false,
+      "given": "Y.",
+      "family": "Bondar",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00krbh354",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Jan Kochanowski University"
+        }
+      ]
+    },
+    {
+      "given": "A.",
+      "family": "Borucka",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00y0xnp53",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Warsaw University of Technology"
+        }
+      ]
+    },
+    {
+      "given": "A.",
+      "family": "Brandin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3457-6601",
+      "authenticated-orcid": false,
+      "given": "W.",
+      "family": "Bryli\u0144ski",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00y0xnp53",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Warsaw University of Technology"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5320-6748",
+      "authenticated-orcid": false,
+      "given": "J.",
+      "family": "Brzychczyk",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/03bqmcz70",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Jagiellonian University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0008-2394-4967",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Buryakov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "given": "A. F.",
+      "family": "Camino",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01an3r305",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Pittsburgh"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4420-9688",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "\u0106irkovi\u0107",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/02qsmb048",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Belgrade"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3154-6925",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Csan\u00e1d",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01jsq2704",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "E\u00f6tv\u00f6s Lor\u00e1nd University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2568-3664",
+      "authenticated-orcid": false,
+      "given": "J.",
+      "family": "Cybowska",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00y0xnp53",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Warsaw University of Technology"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1908-2977",
+      "authenticated-orcid": false,
+      "given": "T.",
+      "family": "Czopowicz",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00krbh354",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Jan Kochanowski University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-6945-5845",
+      "authenticated-orcid": false,
+      "given": "C.",
+      "family": "Dalmazzone",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01hg8p552",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "LPNHE, Sorbonne University, CNRS/IN2P3"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3047-6854",
+      "authenticated-orcid": false,
+      "given": "N.",
+      "family": "Davis",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01dr6c206",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Institute of Nuclear Physics, Polish Academy of Sciences"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-7853-0173",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "Dmitriev",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-7801-3376",
+      "authenticated-orcid": false,
+      "given": "P.",
+      "family": "von Doetinchem",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01wspgy28",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Hawaii at Manoa"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-7444-9239",
+      "authenticated-orcid": false,
+      "given": "W.",
+      "family": "Dominik",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/039bjqg32",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Warsaw"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-9243-4425",
+      "authenticated-orcid": false,
+      "given": "J.",
+      "family": "Dumarchez",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01hg8p552",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "LPNHE, Sorbonne University, CNRS/IN2P3"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2924-8889",
+      "authenticated-orcid": false,
+      "given": "R.",
+      "family": "Engel",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/04t3en479",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Karlsruhe Institute of Technology"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3700-8623",
+      "authenticated-orcid": false,
+      "given": "G. A.",
+      "family": "Feofilov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-8281-3686",
+      "authenticated-orcid": false,
+      "given": "L.",
+      "family": "Fields",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00mkhxb43",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Notre Dame"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2519-5687",
+      "authenticated-orcid": false,
+      "given": "Z.",
+      "family": "Fodor",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/035dsb084",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "HUN-REN Wigner Research Centre for Physics"
+        },
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00yae6e25",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Wroc\u0142aw"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-4660-4670",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Friend",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00nwp9g54",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Institute for Particle and Nuclear Studies"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6114-8223",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Ga\u017adzicki",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00krbh354",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Jan Kochanowski University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-6562-2925",
+      "authenticated-orcid": false,
+      "given": "O.",
+      "family": "Golosov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0006-5201-0990",
+      "authenticated-orcid": false,
+      "given": "V.",
+      "family": "Golovatyuk",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0003-4756-2449",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Golubeva",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6754-9554",
+      "authenticated-orcid": false,
+      "given": "K.",
+      "family": "Grebieszkow",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00y0xnp53",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Warsaw University of Technology"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-8790-3218",
+      "authenticated-orcid": false,
+      "given": "F.",
+      "family": "Guber",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "given": "S. N.",
+      "family": "Igolkin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-9204-2563",
+      "authenticated-orcid": false,
+      "given": "S.",
+      "family": "Ilieva",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/02jv3k292",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Sofia"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-4595-5866",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "Ivashkin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0009-1305-7309",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "Izvestnyy",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "given": "N.",
+      "family": "Kargin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5513-9331",
+      "authenticated-orcid": false,
+      "given": "N.",
+      "family": "Karpushkin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-6062-7997",
+      "authenticated-orcid": false,
+      "given": "E.",
+      "family": "Kashirin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4403-9201",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Kie\u0142bowicz",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01dr6c206",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Institute of Nuclear Physics, Polish Academy of Sciences"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5630-9264",
+      "authenticated-orcid": false,
+      "given": "V. A.",
+      "family": "Kireyeu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0006-4224-1058",
+      "authenticated-orcid": false,
+      "given": "R.",
+      "family": "Kolesnikov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-9203-4739",
+      "authenticated-orcid": false,
+      "given": "D.",
+      "family": "Kolev",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/02jv3k292",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Sofia"
+        }
+      ]
+    },
+    {
+      "given": "Y.",
+      "family": "Koshio",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/02pc6pc55",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Okayama University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-6012-6615",
+      "authenticated-orcid": false,
+      "given": "V. N.",
+      "family": "Kovalenko",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-9888-4008",
+      "authenticated-orcid": false,
+      "given": "S.",
+      "family": "Kowalski",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/0104rcc94",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Silesia"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-8442-2320",
+      "authenticated-orcid": false,
+      "given": "B.",
+      "family": "Koz\u0142owski",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00y0xnp53",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Warsaw University of Technology"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1425-2861",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "Krasnoperov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2073-711X",
+      "authenticated-orcid": false,
+      "given": "W.",
+      "family": "Kucewicz",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00bas1c41",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "AGH-University of Science and Technology"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3174-585X",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Kuchowicz",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00yae6e25",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Wroc\u0142aw"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6507-8699",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Kuich",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/039bjqg32",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Warsaw"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1851-4136",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "Kurepin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2712-6968",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "L\u00e1szl\u00f3",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/035dsb084",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "HUN-REN Wigner Research Centre for Physics"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8972-3066",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Lewicki",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00yae6e25",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Wroc\u0142aw"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1544-6959",
+      "authenticated-orcid": false,
+      "given": "G.",
+      "family": "Lykasov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-0136-233X",
+      "authenticated-orcid": false,
+      "given": "V. V.",
+      "family": "Lyubushkin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3954-6329",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Ma\u0107kowiak-Paw\u0142owska",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00y0xnp53",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Warsaw University of Technology"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3064-6577",
+      "authenticated-orcid": false,
+      "given": "Z.",
+      "family": "Majka",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/03bqmcz70",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Jagiellonian University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0002-9745-1897",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "Makhnev",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-7950-2307",
+      "authenticated-orcid": false,
+      "given": "B.",
+      "family": "Maksiak",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00nzsxq20",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "National Centre for Nuclear Research"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-8569-8409",
+      "authenticated-orcid": false,
+      "given": "A. I.",
+      "family": "Malakhov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-9922-743X",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "Marcinek",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01dr6c206",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Institute of Nuclear Physics, Polish Academy of Sciences"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1709-538X",
+      "authenticated-orcid": false,
+      "given": "A. D.",
+      "family": "Marino",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/02ttsq026",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Colorado"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-0680-040X",
+      "authenticated-orcid": false,
+      "given": "H.-J.",
+      "family": "Mathes",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/04t3en479",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Karlsruhe Institute of Technology"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2098-1216",
+      "authenticated-orcid": false,
+      "given": "T.",
+      "family": "Matulewicz",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/039bjqg32",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Warsaw"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2745-5908",
+      "authenticated-orcid": false,
+      "given": "V.",
+      "family": "Matveev",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0004-2074-6755",
+      "authenticated-orcid": false,
+      "given": "G. L.",
+      "family": "Melkumov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6553-2783",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "Merzlaya",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01xtthb56",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Oslo"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2712-6861",
+      "authenticated-orcid": false,
+      "given": "\u0141.",
+      "family": "Mik",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00bas1c41",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "AGH-University of Science and Technology"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6748-7277",
+      "authenticated-orcid": false,
+      "given": "S.",
+      "family": "Morozov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1792-5005",
+      "authenticated-orcid": false,
+      "given": "Y.",
+      "family": "Nagai",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01jsq2704",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "E\u00f6tv\u00f6s Lor\u00e1nd University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-4327-7598",
+      "authenticated-orcid": false,
+      "given": "T.",
+      "family": "Nakadaira",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00nwp9g54",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Institute for Particle and Nuclear Studies"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5634-6639",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Naskr\u0119t",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00yae6e25",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Wroc\u0142aw"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1820-0938",
+      "authenticated-orcid": false,
+      "given": "S.",
+      "family": "Nishimori",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00nwp9g54",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Institute for Particle and Nuclear Studies"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-4261-8303",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "Olivier",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00mkhxb43",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Notre Dame"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-7821-7109",
+      "authenticated-orcid": false,
+      "given": "V.",
+      "family": "Ozvenchuk",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01dr6c206",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Institute of Nuclear Physics, Polish Academy of Sciences"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5039-7788",
+      "authenticated-orcid": false,
+      "given": "O.",
+      "family": "Panova",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00krbh354",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Jan Kochanowski University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2162-0957",
+      "authenticated-orcid": false,
+      "given": "V.",
+      "family": "Paolone",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01an3r305",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Pittsburgh"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8872-8324",
+      "authenticated-orcid": false,
+      "given": "O.",
+      "family": "Petukhov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-9916-9436",
+      "authenticated-orcid": false,
+      "given": "I.",
+      "family": "Pidhurskyi",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00krbh354",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Jan Kochanowski University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-8007-8577",
+      "authenticated-orcid": false,
+      "given": "R.",
+      "family": "P\u0142aneta",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/03bqmcz70",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Jagiellonian University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-0232-9841",
+      "authenticated-orcid": false,
+      "given": "P.",
+      "family": "Podlaski",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/039bjqg32",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Warsaw"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5416-9301",
+      "authenticated-orcid": false,
+      "given": "B. A.",
+      "family": "Popov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01hg8p552",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "LPNHE, Sorbonne University, CNRS/IN2P3"
+        },
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5724-9737",
+      "authenticated-orcid": false,
+      "given": "B.",
+      "family": "P\u00f3rfy",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/035dsb084",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "HUN-REN Wigner Research Centre for Physics"
+        },
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01jsq2704",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "E\u00f6tv\u00f6s Lor\u00e1nd University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3726-9196",
+      "authenticated-orcid": false,
+      "given": "D. S.",
+      "family": "Prokhorova",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4697-6688",
+      "authenticated-orcid": false,
+      "given": "D.",
+      "family": "Pszczel",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00nzsxq20",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "National Centre for Nuclear Research"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1982-2787",
+      "authenticated-orcid": false,
+      "given": "S.",
+      "family": "Pu\u0142awski",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/0104rcc94",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Silesia"
+        }
+      ]
+    },
+    {
+      "given": "J.",
+      "family": "Puzovi\u0107",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/02qsmb048",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Belgrade"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5633-104X",
+      "authenticated-orcid": false,
+      "given": "R.",
+      "family": "Renfordt",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/0104rcc94",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Silesia"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1709-7673",
+      "authenticated-orcid": false,
+      "given": "L.",
+      "family": "Ren",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/02ttsq026",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Colorado"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-7026-8198",
+      "authenticated-orcid": false,
+      "given": "V. Z. Reyna",
+      "family": "Ortiz",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00krbh354",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Jan Kochanowski University"
+        }
+      ]
+    },
+    {
+      "given": "D.",
+      "family": "R\u00f6hrich",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/03zga2b32",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Bergen"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2607-4820",
+      "authenticated-orcid": false,
+      "given": "E.",
+      "family": "Rondio",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00nzsxq20",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "National Centre for Nuclear Research"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1281-4477",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Roth",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/04t3en479",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Karlsruhe Institute of Technology"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3680-6738",
+      "authenticated-orcid": false,
+      "given": "\u0141.",
+      "family": "Rozp\u0142ochowski",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01dr6c206",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Institute of Nuclear Physics, Polish Academy of Sciences"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4867-945X",
+      "authenticated-orcid": false,
+      "given": "B. T.",
+      "family": "Rumberger",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/02ttsq026",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Colorado"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-8233-2030",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Rumyantsev",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-8678-6400",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "Rustamov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/03g11f026",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "National Nuclear Research Center"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3638-3766",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Rybczynski",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00krbh354",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Jan Kochanowski University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3076-0505",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "Rybicki",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01dr6c206",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Institute of Nuclear Physics, Polish Academy of Sciences"
+        }
+      ]
+    },
+    {
+      "given": "D.",
+      "family": "Rybka",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00nzsxq20",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "National Centre for Nuclear Research"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2602-7837",
+      "authenticated-orcid": false,
+      "given": "K.",
+      "family": "Sakashita",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00nwp9g54",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Institute for Particle and Nuclear Studies"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-0903-5790",
+      "authenticated-orcid": false,
+      "given": "K.",
+      "family": "Schmidt",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/0104rcc94",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Silesia"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5759-5485",
+      "authenticated-orcid": false,
+      "given": "A. Yu.",
+      "family": "Seryakov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4821-6105",
+      "authenticated-orcid": false,
+      "given": "P.",
+      "family": "Seyboth",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00krbh354",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Jan Kochanowski University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-9315-1304",
+      "authenticated-orcid": false,
+      "given": "U. A.",
+      "family": "Shah",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00krbh354",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Jan Kochanowski University"
+        }
+      ]
+    },
+    {
+      "given": "Y.",
+      "family": "Shiraishi",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/02pc6pc55",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Okayama University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3839-7229",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "Shukla",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01wspgy28",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Hawaii at Manoa"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-0463-2753",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "S\u0142odkowski",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00y0xnp53",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Warsaw University of Technology"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-4002-1626",
+      "authenticated-orcid": false,
+      "given": "P.",
+      "family": "Staszel",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/03bqmcz70",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Jagiellonian University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-6656-9177",
+      "authenticated-orcid": false,
+      "given": "G.",
+      "family": "Stefanek",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00krbh354",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Jan Kochanowski University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2064-9870",
+      "authenticated-orcid": false,
+      "given": "J.",
+      "family": "Stepaniak",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00nzsxq20",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "National Centre for Nuclear Research"
+        }
+      ]
+    },
+    {
+      "given": "M.",
+      "family": "Strikhanov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5857-2085",
+      "authenticated-orcid": false,
+      "given": "\u0141.",
+      "family": "\u015awiderski",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00nzsxq20",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "National Centre for Nuclear Research"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2981-9303",
+      "authenticated-orcid": false,
+      "given": "J.",
+      "family": "Szewi\u0144ski",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00nzsxq20",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "National Centre for Nuclear Research"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1291-4040",
+      "authenticated-orcid": false,
+      "given": "R.",
+      "family": "Szukiewicz",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00yae6e25",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Wroc\u0142aw"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1737-4474",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "Taranenko",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6069-4273",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "Tefelska",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00y0xnp53",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Warsaw University of Technology"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-0802-2290",
+      "authenticated-orcid": false,
+      "given": "D.",
+      "family": "Tefelski",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00y0xnp53",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Warsaw University of Technology"
+        }
+      ]
+    },
+    {
+      "given": "V.",
+      "family": "Tereshchenko",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1330-8640",
+      "authenticated-orcid": false,
+      "given": "R.",
+      "family": "Tsenov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/02jv3k292",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Sofia"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5474-8650",
+      "authenticated-orcid": false,
+      "given": "L.",
+      "family": "Turko",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00yae6e25",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Wroc\u0142aw"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0003-7140-8644",
+      "authenticated-orcid": false,
+      "given": "T. S.",
+      "family": "Tveter",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/01xtthb56",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Oslo"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-7651-0272",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Unger",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/04t3en479",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Karlsruhe Institute of Technology"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-9768-030X",
+      "authenticated-orcid": false,
+      "given": "M.",
+      "family": "Urbaniak",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/0104rcc94",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Silesia"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5130-5603",
+      "authenticated-orcid": false,
+      "given": "F. F.",
+      "family": "Valiev",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2683-1526",
+      "authenticated-orcid": false,
+      "given": "D.",
+      "family": "Veberi\u010d",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/04t3en479",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Karlsruhe Institute of Technology"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1458-8055",
+      "authenticated-orcid": false,
+      "given": "V. V.",
+      "family": "Vechernin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-9744-3937",
+      "authenticated-orcid": false,
+      "given": "O.",
+      "family": "Vitiuk",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00yae6e25",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Wroc\u0142aw"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4785-7517",
+      "authenticated-orcid": false,
+      "given": "V.",
+      "family": "Volkov",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5325-0455",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "Wickremasinghe",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/020hgte69",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Fermilab"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0004-6699-1895",
+      "authenticated-orcid": false,
+      "given": "K.",
+      "family": "Witek",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00bas1c41",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "AGH-University of Science and Technology"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8315-9281",
+      "authenticated-orcid": false,
+      "given": "K.",
+      "family": "W\u00f3jcik",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/0104rcc94",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Silesia"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6652-0450",
+      "authenticated-orcid": false,
+      "given": "O.",
+      "family": "Wyszy\u0144ski",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00krbh354",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Jan Kochanowski University"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-4711-9925",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "Zaitsev",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1364-0969",
+      "authenticated-orcid": false,
+      "given": "E.",
+      "family": "Zherebtsova",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00yae6e25",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Wroc\u0142aw"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6394-6659",
+      "authenticated-orcid": false,
+      "given": "E. D.",
+      "family": "Zimmerman",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/02ttsq026",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "University of Colorado"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0007-5211-6493",
+      "authenticated-orcid": false,
+      "given": "A.",
+      "family": "Zviagina",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Affiliated with an Institution Covered by a Cooperation Agreement with CERN"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4889-5988",
+      "authenticated-orcid": false,
+      "given": "R.",
+      "family": "Zwaska",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "id": [
+            {
+              "id": "https://ror.org/020hgte69",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ],
+          "name": "Fermilab"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        11
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "13076_CR1",
+      "doi-asserted-by": "publisher",
+      "unstructured": "N. Abgrall et al. [NA61/SHINE Collab.], JINST 9, P06005 (2014). https://doi.org/10.1088/1748-0221/9/06/P06005. arXiv:1401.4699 [physics.ins-det]",
+      "DOI": "10.1088/1748-0221/9/06/P06005"
+    },
+    {
+      "key": "13076_CR2",
+      "unstructured": "A. Aduszkiewicz [NA61/SHINE Collab.], Report from the NA61/SHINE experiment at the CERN SPS. Tech. Rep. CERN-SPSC-2018-029. SPSC-SR-239, CERN (2018). https://cds.cern.ch/record/2642286"
+    },
+    {
+      "key": "13076_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "46",
+      "DOI": "10.1016/j.physletb.2006.10.021",
+      "volume": "643",
+      "author": "Y Aoki",
+      "year": "2006",
+      "unstructured": "Y. Aoki, Z. Fodor, S.D. Katz, K.K. Szabo, Phys. Lett. B Ser. 643, 46\u201354 (2006). https://doi.org/10.1016/j.physletb.2006.10.021. arXiv:hep-lat/0609068",
+      "journal-title": "Phys. Lett. B Ser."
+    },
+    {
+      "key": "13076_CR4",
+      "doi-asserted-by": "publisher",
+      "unstructured": "S. Borsanyi, Z. Fodor, C. Hoelbling, S. D. Katz, S. Krieg, C. Ratti, K.K. Szabo [Wuppertal-Budapest Collab.], JHEP 09, 073 (2010). https://doi.org/10.1007/JHEP09(2010)073. arXiv:1005.3508 [hep-lat]",
+      "DOI": "10.1007/JHEP09(2010)073"
+    },
+    {
+      "issue": "1",
+      "key": "13076_CR5",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevD.92.014505",
+      "volume": "92",
+      "author": "S Borsanyi",
+      "year": "2015",
+      "unstructured": "S. Borsanyi, S. Durr, Z. Fodor, C. Holbling, S.D. Katz, S. Krieg, D. Nogradi, K.K. Szabo, B.C. Toth, N. Trombitas, Phys. Rev. D 92(1), 014505 (2015). https://doi.org/10.1103/PhysRevD.92.014505. arXiv:1504.03676 [hep-lat]",
+      "journal-title": "Phys. Rev. D"
+    },
+    {
+      "key": "13076_CR6",
+      "first-page": "2939",
+      "volume": "35",
+      "author": "M Stephanov",
+      "year": "2004",
+      "unstructured": "M. Stephanov, Acta Phys. Polon. B Ser. 35, 2939\u20132962 (2004)",
+      "journal-title": "Acta Phys. Polon. B Ser."
+    },
+    {
+      "key": "13076_CR7",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevD.60.114028",
+      "volume": "60",
+      "author": "MA Stephanov",
+      "year": "1999",
+      "unstructured": "M.A. Stephanov, K. Rajagopal, E.V. Shuryak, Phys. Rev. D 60, 114028 (1999). https://doi.org/10.1103/PhysRevD.60.114028. arXiv:hep-ph/9903292 [hep-ph]",
+      "journal-title": "Phys. Rev. D"
+    },
+    {
+      "key": "13076_CR8",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevC.63.064903",
+      "volume": "63",
+      "author": "EV Shuryak",
+      "year": "2001",
+      "unstructured": "E.V. Shuryak, M.A. Stephanov, Phys. Rev. C 63, 064903 (2001). https://doi.org/10.1103/PhysRevC.63.064903. arXiv:hep-ph/0010100 [hep-ph]",
+      "journal-title": "Phys. Rev. C"
+    },
+    {
+      "key": "13076_CR9",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.nuclphysa.2021.122141",
+      "volume": "1008",
+      "author": "P Braun-Munzinger",
+      "year": "2021",
+      "unstructured": "P. Braun-Munzinger, B. Friman, K. Redlich, A. Rustamov, J. Stachel, Nucl. Phys. A 1008, 122141 (2021). https://doi.org/10.1016/j.nuclphysa.2021.122141. arXiv:2007.02463 [nucl-th]",
+      "journal-title": "Nucl. Phys. A"
+    },
+    {
+      "key": "13076_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "161",
+      "DOI": "10.1016/S0370-1573(00)00140-X",
+      "volume": "351",
+      "author": "H Heiselberg",
+      "year": "2001",
+      "unstructured": "H. Heiselberg, Phys. Rep. Ser. 351, 161 (2001). https://doi.org/10.1016/S0370-1573(00)00140-X",
+      "journal-title": "Phys. Rep. Ser."
+    },
+    {
+      "key": "13076_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "317",
+      "DOI": "10.1016/0550-3213(72)90551-2",
+      "volume": "40",
+      "author": "Z Koba",
+      "year": "1972",
+      "unstructured": "Z. Koba, H.B. Nielsen, P. Olesen, Nucl. Phys. Ser. B 40, 317\u2013334 (1972). https://doi.org/10.1016/0550-3213(72)90551-2",
+      "journal-title": "Nucl. Phys. Ser. B"
+    },
+    {
+      "key": "13076_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "1841",
+      "DOI": "10.1134/1.1414933",
+      "volume": "64",
+      "author": "A Golokhvastov",
+      "year": "2001",
+      "unstructured": "A. Golokhvastov, Phys. Atom. Nucl. Ser. 64, 1841\u20131855 (2001). https://doi.org/10.1134/1.1414933",
+      "journal-title": "Phys. Atom. Nucl. Ser."
+    },
+    {
+      "key": "13076_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "84",
+      "DOI": "10.1134/1.1344946",
+      "volume": "64",
+      "author": "A Golokhvastov",
+      "year": "2001",
+      "unstructured": "A. Golokhvastov, Phys. Atom. Nucl. Ser. 64, 84\u201397 (2001). https://doi.org/10.1134/1.1344946",
+      "journal-title": "Phys. Atom. Nucl. Ser."
+    },
+    {
+      "issue": "2",
+      "key": "13076_CR14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevC.101.024917",
+      "volume": "101",
+      "author": "O Savchuk",
+      "year": "2020",
+      "unstructured": "O. Savchuk, R.V. Poberezhnyuk, V. Vovchenko, M.I. Gorenstein, Phys. Rev. C 101(2), 024917 (2020). https://doi.org/10.1103/PhysRevC.101.024917. arXiv:1911.03426 [hep-ph]",
+      "journal-title": "Phys. Rev. C"
+    },
+    {
+      "key": "13076_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "299",
+      "DOI": "10.1016/j.ppnp.2016.04.002",
+      "volume": "90",
+      "author": "M Asakawa",
+      "year": "2016",
+      "unstructured": "M. Asakawa, M. Kitazawa, Prog. Part. Nucl. Phys. 90, 299\u2013342 (2016). https://doi.org/10.1016/j.ppnp.2016.04.002. arXiv:1512.05038 [nucl-th]",
+      "journal-title": "Prog. Part. Nucl. Phys."
+    },
+    {
+      "key": "13076_CR16",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevC.84.014904",
+      "volume": "84",
+      "author": "M Gorenstein",
+      "year": "2011",
+      "unstructured": "M. Gorenstein, M. Gazdzicki, Phys. Rev. C 84, 014904 (2011). https://doi.org/10.1103/PhysRevC.84.014904. arXiv:1101.4865 [nucl-th]",
+      "journal-title": "Phys. Rev. C"
+    },
+    {
+      "key": "13076_CR17",
+      "doi-asserted-by": "publisher",
+      "first-page": "461",
+      "DOI": "10.1016/0550-3213(76)90329-1",
+      "volume": "111",
+      "author": "A Bialas",
+      "year": "1976",
+      "unstructured": "A. Bialas, M. Bleszynski, W. Czyz, Nucl. Phys. Ser. B 111, 461 (1976). https://doi.org/10.1016/0550-3213(76)90329-1",
+      "journal-title": "Nucl. Phys. Ser. B"
+    },
+    {
+      "key": "13076_CR18",
+      "unstructured": "V. Begun. arXiv:1606.05358 [nucl-th]"
+    },
+    {
+      "key": "13076_CR19",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1088/0954-3899/35/12/125102",
+      "volume": "35",
+      "author": "MI Gorenstein",
+      "year": "2008",
+      "unstructured": "M.I. Gorenstein, J. Phys. G 35, 125102 (2008). https://doi.org/10.1088/0954-3899/35/12/125102. arXiv:0806.2804 [nucl-th]",
+      "journal-title": "J. Phys. G"
+    },
+    {
+      "key": "13076_CR20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevC.74.044903",
+      "volume": "74",
+      "author": "V Begun",
+      "year": "2006",
+      "unstructured": "V. Begun, M.I. Gorenstein, M. Hauer, V. Konchakovski, O. Zozulya, Phys. Rev. C 74, 044903 (2006). https://doi.org/10.1103/PhysRevC.74.044903. arXiv:nucl-th/0606036 [nucl-th]",
+      "journal-title": "Phys. Rev. C"
+    },
+    {
+      "key": "13076_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1016/j.physrep.2020.01.005",
+      "volume": "853",
+      "author": "A Bzdak",
+      "year": "2020",
+      "unstructured": "A. Bzdak, S. Esumi, V. Koch, J. Liao, M. Stephanov, N. Xu, Phys. Rep. 853, 1\u201387 (2020). https://doi.org/10.1016/j.physrep.2020.01.005. arXiv:1906.00936 [nucl-th]",
+      "journal-title": "Phys. Rep."
+    },
+    {
+      "issue": "3",
+      "key": "13076_CR22",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevC.93.034915",
+      "volume": "93",
+      "author": "B Ling",
+      "year": "2016",
+      "unstructured": "B. Ling, M.A. Stephanov, Phys. Rev. C 93(3), 034915 (2016). https://doi.org/10.1103/PhysRevC.93.034915. arXiv:1512.09125 [nucl-th]",
+      "journal-title": "Phys. Rev. C"
+    },
+    {
+      "issue": "5",
+      "key": "13076_CR23",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevC.95.054906",
+      "volume": "95",
+      "author": "A Bzdak",
+      "year": "2017",
+      "unstructured": "A. Bzdak, V. Koch, N. Strodthoff, Phys. Rev. C 95(5), 054906 (2017). https://doi.org/10.1103/PhysRevC.95.054906. arXiv:1607.07375 [nucl-th]",
+      "journal-title": "Phys. Rev. C"
+    },
+    {
+      "key": "13076_CR24",
+      "doi-asserted-by": "publisher",
+      "unstructured": "N. Abgrall et al. [NA61/SHINE Collab.], Eur. Phys. J. C 74(3), 2794 (2014). https://doi.org/10.1140/epjc/s10052-014-2794-6. arXiv:1310.2417 [hep-ex]",
+      "DOI": "10.1140/epjc/s10052-014-2794-6"
+    },
+    {
+      "key": "13076_CR25",
+      "doi-asserted-by": "publisher",
+      "unstructured": "A. Aduszkiewicz et al. [NA61/SHINE Collab.], Eur. Phys. J. C 77(10), 671 (2017). https://doi.org/10.1140/epjc/s10052-017-5260-4. arXiv:1705.02467 [nucl-ex]",
+      "DOI": "10.1140/epjc/s10052-017-5260-4"
+    },
+    {
+      "key": "13076_CR26",
+      "unstructured": "NA61/SHINE common system-size analysis region. https://edms.cern.ch/document/2487456"
+    },
+    {
+      "key": "13076_CR27",
+      "unstructured": "T. Adye, Proceedings of the PHYSTAT 2011 Workshop on Statistical Issues Related to Discovery Claims in Search Experiments and Unfolding. CERN, Geneva, Switzerland, CERN-2011-006, pp. 313\u2013318 (2011). http://hepunx.rl.ac.uk/ adye/software/unfold/RooUnfold.html"
+    },
+    {
+      "key": "13076_CR28",
+      "doi-asserted-by": "publisher",
+      "unstructured": "A. Aduszkiewicz et al. [NA61/SHINE Collab.], Eur. Phys. J. C 76, 635 (2016). https://doi.org/10.1140/epjc/s10052-016-4450-9. arXiv:1510.00163 [hep-ex]",
+      "DOI": "10.1140/epjc/s10052-016-4450-9"
+    },
+    {
+      "key": "13076_CR29",
+      "unstructured": "NA61/SHINE acceptance for p+p analysis. https://edms.cern.ch/document/2228711/1"
+    },
+    {
+      "key": "13076_CR30",
+      "doi-asserted-by": "publisher",
+      "first-page": "81",
+      "DOI": "10.1016/j.nuclphysbps.2007.10.012",
+      "volume": "175\u2013176",
+      "author": "K Werner",
+      "year": "2008",
+      "unstructured": "K. Werner, Nucl. Phys. Proc. Suppl. Ser. 175\u2013176, 81\u201387 (2008). https://doi.org/10.1016/j.nuclphysbps.2007.10.012",
+      "journal-title": "Nucl. Phys. Proc. Suppl. Ser."
+    },
+    {
+      "key": "13076_CR31",
+      "doi-asserted-by": "publisher",
+      "first-page": "102",
+      "DOI": "10.1016/j.nuclphysbps.2009.09.017",
+      "volume": "196",
+      "author": "T Pierog",
+      "year": "2009",
+      "unstructured": "T. Pierog, K. Werner, Nucl. Phys. Proc. Suppl. Ser. 196, 102\u2013105 (2009). https://doi.org/10.1016/j.nuclphysbps.2009.09.017. arXiv:0905.1198 [hep-ph]",
+      "journal-title": "Nucl. Phys. Proc. Suppl. Ser."
+    },
+    {
+      "key": "13076_CR32",
+      "doi-asserted-by": "publisher",
+      "unstructured": "J. Allison et al. [GEANT4 Collab.], Nuclear Instrum. Methods Phys. Res. Sect. A Accel. Spectrom. Detect. Assoc. Equip. 835, 186\u2013225 (2016). https://doi.org/10.1016/j.nima.2016.06.125",
+      "DOI": "10.1016/j.nima.2016.06.125"
+    },
+    {
+      "key": "13076_CR33",
+      "doi-asserted-by": "publisher",
+      "unstructured": "S. Agostinelli et al. [GEANT4 Collab.], Nucl. Instrum. Methods A 506, 250 (2003). https://doi.org/10.1016/S0168-9002(03)01368-8",
+      "DOI": "10.1016/S0168-9002(03)01368-8"
+    },
+    {
+      "key": "13076_CR34",
+      "doi-asserted-by": "publisher",
+      "unstructured": "J. Allison et al. [GEANT4 Collab.], IEEE Trans. Nucl. Sci. 53, 270 (2006). https://doi.org/10.1109/TNS.2006.869826",
+      "DOI": "10.1109/TNS.2006.869826"
+    },
+    {
+      "key": "13076_CR35",
+      "doi-asserted-by": "publisher",
+      "first-page": "186",
+      "DOI": "10.1016/j.nima.2016.06.125",
+      "volume": "835",
+      "author": "J Allison",
+      "year": "2016",
+      "unstructured": "J. Allison et al., Nucl. Instrum. Methods A Ser. 835, 186\u2013225 (2016). https://doi.org/10.1016/j.nima.2016.06.125",
+      "journal-title": "Nucl. Instrum. Methods A Ser."
+    },
+    {
+      "key": "13076_CR36",
+      "unstructured": "C. F. Brun R., Geant detector description and simulation tool. CERN Program Library Long Writeup w5013. (1993). http://wwwasdoc.web.cern.ch/wwwasdoc/geant/geantall.html"
+    },
+    {
+      "key": "13076_CR37",
+      "first-page": "1",
+      "volume": "7",
+      "author": "B Efron",
+      "year": "1979",
+      "unstructured": "B. Efron, Ann. Stat. Ser. 7, 1\u201326 (1979)",
+      "journal-title": "Ann. Stat. Ser."
+    },
+    {
+      "key": "13076_CR38",
+      "unstructured": "T.C. Hesterberg, D.S. Moore, S. Monaghan, A. Clipson, R. Epstein, Bootstrap methods and permutation tests. (2005). http://bcs.whfreeman.com/ips5e/content/cat_080/pdf/moore14.pdf"
+    },
+    {
+      "issue": "2",
+      "key": "13076_CR39",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1103/PhysRevC.96.024910",
+      "volume": "96",
+      "author": "M Kitazawa",
+      "year": "2017",
+      "unstructured": "M. Kitazawa, X. Luo, Phys. Rev. C 96(2), 024910 (2017). https://doi.org/10.1103/PhysRevC.96.024910. arXiv:1704.04909 [nucl-th]",
+      "journal-title": "Phys. Rev. C"
+    },
+    {
+      "key": "13076_CR40",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.physletb.2020.135868",
+      "volume": "811",
+      "author": "V Vovchenko",
+      "year": "2020",
+      "unstructured": "V. Vovchenko, O. Savchuk, R.V. Poberezhnyuk, M.I. Gorenstein, V. Koch, Phys. Lett. B Ser. 811, 135868 (2020). https://doi.org/10.1016/j.physletb.2020.135868. arXiv:2003.13905 [hep-ph]",
+      "journal-title": "Phys. Lett. B Ser."
+    },
+    {
+      "key": "13076_CR41",
+      "doi-asserted-by": "publisher",
+      "unstructured": "C. Alt et al. [NA49 Collab.], Phys. Rev. C 70, 064903 (2004). https://doi.org/10.1103/PhysRevC.70.064903. arXiv:nucl-ex/0406013",
+      "DOI": "10.1103/PhysRevC.70.064903"
+    },
+    {
+      "key": "13076_CR42",
+      "doi-asserted-by": "publisher",
+      "unstructured": "L. Adamczyk et al. [STAR Collab.], Phys. Rev. Lett. 113, 092301 (2014). https://doi.org/10.1103/PhysRevLett.113.092301. arXiv:1402.1558 [nucl-ex]",
+      "DOI": "10.1103/PhysRevLett.113.092301"
+    },
+    {
+      "key": "13076_CR43",
+      "doi-asserted-by": "publisher",
+      "unstructured": "A. Pandav [STAR Collab.], Nucl. Phys. A 1005, 121936 (2021). https://doi.org/10.1016/j.nuclphysa.2020.121936. arXiv:2003.12503 [nucl-ex]",
+      "DOI": "10.1016/j.nuclphysa.2020.121936"
+    },
+    {
+      "key": "13076_CR44",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1088/0954-3899/39/2/025008",
+      "volume": "39",
+      "author": "X Luo",
+      "year": "2012",
+      "unstructured": "X. Luo, J. Phys. G 39, 025008 (2012). https://doi.org/10.1088/0954-3899/39/2/025008. arXiv:1109.0593 [physics.data-an]",
+      "journal-title": "J. Phys. G"
+    },
+    {
+      "key": "13076_CR45",
+      "doi-asserted-by": "publisher",
+      "unstructured": "T. Anticic et al. [NA49 Collab.], Phys. Rev. C 89, 054902 (2014). https://doi.org/10.1103/PhysRevC.89.054902. arXiv:1310.3428 [nucl-ex]",
+      "DOI": "10.1103/PhysRevC.89.054902"
+    },
+    {
+      "issue": "10",
+      "key": "13076_CR46",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1088/1742-6596/898/10/102006",
+      "volume": "898",
+      "author": "E Maguire",
+      "year": "2017",
+      "unstructured": "E. Maguire, L. Heinrich, G. Watt, J. Phys. Conf. Ser. 898(10), 102006 (2017). https://doi.org/10.1088/1742-6596/898/10/102006. arXiv:1704.05473 [hep-ex]",
+      "journal-title": "J. Phys. Conf. Ser."
+    },
+    {
+      "key": "13076_CR47",
+      "unstructured": "HEPData repository. https://www.hepdata.net"
+    }
+  ],
+  "updated-by": [
+    {
+      "updated": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            25
+          ]
+        ],
+        "date-time": "2025-03-25T00:00:00Z",
+        "timestamp": 1742860800000
+      },
+      "DOI": "10.1140/epjc/s10052-025-13977-6",
+      "type": "erratum",
+      "source": "publisher",
+      "label": "Erratum"
+    }
+  ],
+  "container-title": [
+    "The European Physical Journal C"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1140/epjc/s10052-024-13076-y.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1140/epjc/s10052-024-13076-y/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1140/epjc/s10052-024-13076-y.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        28
+      ]
+    ],
+    "date-time": "2025-03-28T06:25:54Z",
+    "timestamp": 1743143154000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1140/epjc/s10052-024-13076-y"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        11
+      ]
+    ]
+  },
+  "references-count": 47,
+  "journal-issue": {
+    "issue": "9",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          9
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "13076"
+  ],
+  "URL": "https://doi.org/10.1140/epjc/s10052-024-13076-y",
+  "relation": {
+    "has-preprint": [
+      {
+        "id-type": "arxiv",
+        "id": "2312.13706",
+        "asserted-by": "subject"
+      }
+    ]
+  },
+  "ISSN": [
+    "1434-6052"
+  ],
+  "issn-type": [
+    {
+      "type": "electronic",
+      "value": "1434-6052"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        11
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "30 December 2023",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "1 July 2024",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "11 September 2024",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "25 March 2025",
+      "order": 4,
+      "name": "change_date",
+      "label": "Change Date",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "Erratum",
+      "order": 5,
+      "name": "change_type",
+      "label": "Change Type",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "An Erratum to this paper has been published:",
+      "order": 6,
+      "name": "change_details",
+      "label": "Change Details",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "https://doi.org/10.1140/epjc/s10052-025-13977-6",
+      "URL": "https://doi.org/10.1140/epjc/s10052-025-13977-6",
+      "order": 7,
+      "name": "change_details",
+      "label": "Change Details",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "2024 The Author(s)",
+      "order": 1,
+      "name": "copyright_statement",
+      "label": "Copyright Statement",
+      "group": {
+        "name": "ArticleCopyright",
+        "label": "Copyright Information"
+      }
+    },
+    {
+      "value": "The Author(s)",
+      "order": 2,
+      "name": "copyright_holder",
+      "label": "Copyright Holder",
+      "group": {
+        "name": "ArticleCopyright",
+        "label": "Copyright Information"
+      }
+    },
+    {
+      "value": "2024",
+      "order": 3,
+      "name": "copyright_year",
+      "label": "Copyright Year",
+      "group": {
+        "name": "ArticleCopyright",
+        "label": "Copyright Information"
+      }
+    }
+  ],
+  "article-number": "921"
 }

@@ -1,3 +1,814 @@
 {
-  "title": "Fake Paper"
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        25
+      ]
+    ],
+    "date-time": "2025-10-25T05:09:18Z",
+    "timestamp": 1761368958805,
+    "version": "build-2065373602"
+  },
+  "reference-count": 49,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2024-01-01T00:00:00Z",
+        "timestamp": 1704067200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2024-01-01T00:00:00Z",
+        "timestamp": 1704067200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2024-01-01T00:00:00Z",
+        "timestamp": 1704067200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-017"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2024-01-01T00:00:00Z",
+        "timestamp": 1704067200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-037"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2024-01-01T00:00:00Z",
+        "timestamp": 1704067200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-012"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2024-01-01T00:00:00Z",
+        "timestamp": 1704067200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-029"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2024-01-01T00:00:00Z",
+        "timestamp": 1704067200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-004"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Physica E: Low-dimensional Systems and Nanostructures"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        1
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.physe.2023.115833",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        11
+      ]
+    ],
+    "date-time": "2023-10-11T23:31:08Z",
+    "timestamp": 1697067068000
+  },
+  "page": "115833",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "special_numbering": "C",
+  "title": [
+    "Low-temperature carrier transport in magnetic field in sandwich-like graphene/Co nanoparticles/graphene structure"
+  ],
+  "prefix": "10.1016",
+  "volume": "155",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-7008-847X",
+      "authenticated-orcid": false,
+      "given": "Alexander K.",
+      "family": "Fedotov",
+      "sequence": "first",
+      "affiliation": []
+    },
+    {
+      "given": "Uladzislaw E.",
+      "family": "Gumiennik",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Julia A.",
+      "family": "Fedotova",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Janusz",
+      "family": "Przewo\u017anik",
+      "sequence": "additional",
+      "affiliation": []
+    },
+    {
+      "given": "Czes\u0142aw",
+      "family": "Kapusta",
+      "sequence": "additional",
+      "affiliation": []
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.physe.2023.115833_bib1",
+      "doi-asserted-by": "crossref",
+      "first-page": "298",
+      "DOI": "10.1016/j.carbon.2015.04.086",
+      "article-title": "Electronic structure and magnetic properties of graphene/Co composite",
+      "volume": "91",
+      "author": "Zhidkov",
+      "year": "2015",
+      "journal-title": "Carbon"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.physe.2023.115833_bib2",
+      "article-title": "Magnetoresistance of vertical Co-graphene-NiFe junctions controlled by charge transfer and proximity-induced spin splitting in graphene",
+      "volume": "4",
+      "author": "Assho",
+      "year": "2017",
+      "journal-title": "2D Mater."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.physe.2023.115833_bib3",
+      "doi-asserted-by": "crossref",
+      "first-page": "373",
+      "DOI": "10.1007/s12274-013-0314-x",
+      "article-title": "Spin valve effect of NiFe/graphene/NiFe junctions",
+      "volume": "6",
+      "author": "Iqbal",
+      "year": "2013",
+      "journal-title": "Nano Res."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.physe.2023.115833_bib4",
+      "doi-asserted-by": "crossref",
+      "first-page": "368",
+      "DOI": "10.1134/S1063783420020134",
+      "article-title": "E_ect of magnetic Co-CoO particles on the carrier transport in monolayer graphene",
+      "volume": "62",
+      "author": "Fedotova",
+      "year": "2020",
+      "journal-title": "Phys. Solid State"
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib5",
+      "doi-asserted-by": "crossref",
+      "first-page": "16",
+      "DOI": "10.5714/CL.2017.21.016",
+      "article-title": "In-situ magnetization measurements and ex-situ morphological analysis of electrodeposited cobalt onto chemical vapor deposition graphene/SiO2/Si",
+      "volume": "21",
+      "author": "Franco",
+      "year": "2017",
+      "journal-title": "Carbon Letters"
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib6",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.physe.2019.113790",
+      "article-title": "Electrical conductivity and magnetoresistance in twisted graphene electrochemically decorated with co particles",
+      "volume": "117",
+      "author": "Fedotov",
+      "year": "2020",
+      "journal-title": "Phys. E Low-dimens. Syst. Nanostruct."
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib7",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.apsusc.2021.152119",
+      "article-title": "The e_ect of quasi-free graphene layer on the electrical transport properties of sandwich-like graphene/Co nanoparticles/graphene structure",
+      "volume": "579",
+      "author": "Bayev",
+      "year": "2022",
+      "journal-title": "Appl. Surf. Sci."
+    },
+    {
+      "issue": "36",
+      "key": "10.1016/j.physe.2023.115833_bib8",
+      "doi-asserted-by": "crossref",
+      "first-page": "7367",
+      "DOI": "10.1088/0022-3719/15/36/018",
+      "article-title": "Effects of electronelectron collisions with small energy transfers on quantum localisation",
+      "volume": "15",
+      "author": "Altshuler",
+      "year": "1982",
+      "journal-title": "J. Phys. C Solid State Phys."
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib9",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1103/PhysRevLett.108.106601",
+      "article-title": "Electron-electron interaction in the magnetoresistance of graphene",
+      "volume": "108",
+      "author": "Jobst",
+      "year": "2012",
+      "journal-title": "Phys. Rev. Lett."
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib10",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1103/PhysRevLett.97.016801",
+      "article-title": "Strong suppression of weak localization in graphene",
+      "volume": "97",
+      "author": "Morozov",
+      "year": "2006",
+      "journal-title": "Phys. Rev. Lett."
+    },
+    {
+      "year": "1984",
+      "series-title": "Electronic Properties of Doped Semiconductors",
+      "author": "Shklovskii",
+      "key": "10.1016/j.physe.2023.115833_bib11"
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib12",
+      "first-page": "1964",
+      "article-title": "Hopping conduction in semiconductors subjected to a strong electric _eld",
+      "volume": "6",
+      "author": "Shklovskii",
+      "year": "1973",
+      "journal-title": "Sov. Phys. Semiconduct."
+    },
+    {
+      "year": "2007",
+      "series-title": "Geometry-driven Magnetoresistance",
+      "author": "Solin",
+      "key": "10.1016/j.physe.2023.115833_bib13"
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib14",
+      "doi-asserted-by": "crossref",
+      "first-page": "56",
+      "DOI": "10.5714/CL.2012.13.1.056",
+      "article-title": "Identifying and quantitating defects on chemical vapor deposition grown graphene layers by selected electrochemical deposition of au nanoparticles",
+      "volume": "13",
+      "author": "So",
+      "year": "2012",
+      "journal-title": "Carbon Letters"
+    },
+    {
+      "issue": "28",
+      "key": "10.1016/j.physe.2023.115833_bib15",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1088/0957-4484/21/28/285205",
+      "article-title": "Enhancing the conductivity of transparent graphene films via doping",
+      "volume": "21",
+      "author": "Kim",
+      "year": "2010",
+      "journal-title": "Nanotechnology"
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib16",
+      "doi-asserted-by": "crossref",
+      "first-page": "196",
+      "DOI": "10.1016/j.carbon.2015.09.056",
+      "article-title": "Efficient nitrogen doping of graphene by plasma treatment",
+      "volume": "96",
+      "author": "Rybin",
+      "year": "2016",
+      "journal-title": "Carbon"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.physe.2023.115833_bib17",
+      "doi-asserted-by": "crossref",
+      "first-page": "210",
+      "DOI": "10.1038/nnano.2008.67",
+      "article-title": "Monitoring dopants by Raman scattering in an electrochemically top-gated graphene transistor",
+      "volume": "3",
+      "author": "Das",
+      "year": "2008",
+      "journal-title": "Nat. Nanotechnol."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.physe.2023.115833_bib18",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1063/1.5006001",
+      "article-title": "Modification of graphene electronic properties via controllable gas-phase doping with copper chloride",
+      "volume": "112",
+      "author": "Rybin",
+      "year": "2018",
+      "journal-title": "Appl. Phys. Lett."
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib19",
+      "doi-asserted-by": "crossref",
+      "first-page": "1252",
+      "DOI": "10.1016/j.apsusc.2018.01.245",
+      "article-title": "CVD graphene sheets electrochemically decorated with \u201ccore-shell\u201d Co/CoO nanoparticles",
+      "volume": "440",
+      "author": "Bayev",
+      "year": "2018",
+      "journal-title": "Appl. Surf. Sci."
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib20",
+      "doi-asserted-by": "crossref",
+      "first-page": "673",
+      "DOI": "10.1103/PhysRevLett.42.673",
+      "article-title": "Scaling theory of localization: absence of quantum diffusion in two dimensions",
+      "volume": "42",
+      "author": "Abrahams",
+      "year": "1979",
+      "journal-title": "Phys. Rev. Lett."
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib21",
+      "doi-asserted-by": "crossref",
+      "first-page": "287",
+      "DOI": "10.1103/RevModPhys.57.287",
+      "article-title": "Disordered electronic systems",
+      "volume": "57",
+      "author": "Lee",
+      "year": "1985",
+      "journal-title": "Rev. Mod. Phys."
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib22",
+      "first-page": "2028",
+      "article-title": "Contribution to the theory of disordered metals in strongly doped semiconductors",
+      "volume": "77",
+      "author": "Altshuler",
+      "year": "1979",
+      "journal-title": "Zh. Eksp. Teor. Fiz."
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib23",
+      "doi-asserted-by": "crossref",
+      "first-page": "1288",
+      "DOI": "10.1103/PhysRevLett.44.1288",
+      "article-title": "Interaction effects in disordered fermi systems in two dimensions",
+      "volume": "44",
+      "author": "Altshuler",
+      "year": "1980",
+      "journal-title": "Phys. Rev. Lett."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.physe.2023.115833_bib24",
+      "first-page": "1",
+      "article-title": "Weak localization in thin films a time-of-flight experiment with conduction",
+      "volume": "107",
+      "author": "Bergmann",
+      "year": "1984",
+      "journal-title": "electrons"
+    },
+    {
+      "issue": "32",
+      "key": "10.1016/j.physe.2023.115833_bib25",
+      "doi-asserted-by": "crossref",
+      "first-page": "L1137",
+      "DOI": "10.1088/0022-3719/15/32/005",
+      "article-title": "Spin-orbit coupling and weak localization in the 2D inversion layer of indium phosphide",
+      "volume": "15",
+      "author": "Poole",
+      "year": "1982",
+      "journal-title": "J. Phys. C Solid State Phys."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.physe.2023.115833_bib26",
+      "first-page": "1",
+      "article-title": "Quantum corrections to the conductivity of semiconductors with a two-dimensional and a 3-dimensional electron-gas-experiments",
+      "volume": "23",
+      "author": "Polyanskaya",
+      "year": "1989",
+      "journal-title": "Soviet Physics Semiconductors{USSR"
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib27",
+      "series-title": "Electron{Electron Interactions in Disordered Systems",
+      "first-page": "1",
+      "article-title": "Electron-electron interaction in disordered conductors",
+      "author": "Altshuler",
+      "year": "1985"
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib28",
+      "series-title": "Proceedings of the International School of Physics ldquo;Enrico Fermirdquo; 157",
+      "first-page": "335",
+      "article-title": "Metallic conduction, apparent metal-insulator transition and related phenomena in two-dimensional electron liquid",
+      "author": "Pudalov",
+      "year": "2004"
+    },
+    {
+      "issue": "22",
+      "key": "10.1016/j.physe.2023.115833_bib29",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1103/PhysRevLett.103.226801",
+      "article-title": "Transition between electron localization and antilocalization in graphene",
+      "volume": "103",
+      "author": "Tikhonenko",
+      "year": "2009",
+      "journal-title": "Phys. Rev. Lett."
+    },
+    {
+      "issue": "17",
+      "key": "10.1016/j.physe.2023.115833_bib30",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1103/PhysRevLett.98.176805",
+      "article-title": "Weak localization in bilayer graphene",
+      "volume": "98",
+      "author": "Gorbachev",
+      "year": "2007",
+      "journal-title": "Phys. Rev. Lett."
+    },
+    {
+      "year": "2016",
+      "series-title": "Magnetotransport in Two-Dimensional Materials",
+      "author": "Shi",
+      "key": "10.1016/j.physe.2023.115833_bib31"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.physe.2023.115833_bib32",
+      "doi-asserted-by": "crossref",
+      "first-page": "341",
+      "DOI": "10.1016/0022-3697(63)90192-6",
+      "article-title": "Weak-_eld magnetoresistance of hopping conduction in simple semiconductors",
+      "volume": "24",
+      "author": "Mikoshiba",
+      "year": "1963",
+      "journal-title": "J. Phys. Chem. Solid."
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib33",
+      "article-title": "Hopping magnetotransport via nonzero orbital momentum states and organic magnetoresistance",
+      "volume": "108",
+      "author": "Alexandrov",
+      "year": "2012",
+      "journal-title": "Phys. Rev. Lett."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.physe.2023.115833_bib34",
+      "doi-asserted-by": "crossref",
+      "first-page": "707",
+      "DOI": "10.1143/PTP.63.707",
+      "article-title": "Spin-orbit interaction and magnetoresistance in the two dimensional random system",
+      "volume": "63",
+      "author": "Hikami",
+      "year": "1980",
+      "journal-title": "Prog. Theor. Phys."
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib35",
+      "first-page": "195",
+      "article-title": "Negative magnetoresistance in semiconductors in the hopping conduction region",
+      "volume": "36",
+      "author": "Altshuler",
+      "year": "1982",
+      "journal-title": "Soviet Journal of Experimental and Theoretical Physics Letters"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.physe.2023.115833_bib36",
+      "doi-asserted-by": "crossref",
+      "first-page": "45",
+      "DOI": "10.4236/graphene.2015.43005",
+      "article-title": "Localization of charge carriers in monolayer graphene gradually disordered by ion irradiation",
+      "volume": "4",
+      "author": "Zion",
+      "year": "2015",
+      "journal-title": "Graphene"
+    },
+    {
+      "issue": "14",
+      "key": "10.1016/j.physe.2023.115833_bib37",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1103/PhysRevLett.97.146805",
+      "article-title": "Weak-localization magnetoresistance and valley symmetry in graphene",
+      "volume": "97",
+      "author": "McCann",
+      "year": "2006",
+      "journal-title": "Phys. Rev. Lett."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.physe.2023.115833_bib38",
+      "doi-asserted-by": "crossref",
+      "first-page": "357",
+      "DOI": "10.1134/1.1866419",
+      "article-title": "Spin-orbit interaction and two-dimensional weak localization in a carbon matrix with cobalt nanoclusters",
+      "volume": "47",
+      "author": "Bumai",
+      "year": "2005",
+      "journal-title": "Phys. Solid State"
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib39",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1103/PhysRevLett.98.176806",
+      "article-title": "Inuence of trigonal warping on interference effects in bilayer graphene",
+      "volume": "98",
+      "author": "Kechedzhi",
+      "year": "2007",
+      "journal-title": "Phys. Rev. Lett."
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib40",
+      "doi-asserted-by": "crossref",
+      "first-page": "568",
+      "DOI": "10.1103/PhysRevLett.46.568",
+      "article-title": "Conductivity cusp in a disordered metal",
+      "volume": "46",
+      "author": "Rosenbaum",
+      "year": "1981",
+      "journal-title": "Phys. Rev. Lett."
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.physe.2023.115833_bib41",
+      "doi-asserted-by": "crossref",
+      "first-page": "4944",
+      "DOI": "10.1021/nl1029607",
+      "article-title": "Atmospheric oxygen binding and hole doping in deformed graphene on a SiO2 substrate",
+      "volume": "10",
+      "author": "Ryu",
+      "year": "2010",
+      "journal-title": "Nano Lett."
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib42",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1103/PhysRevLett.100.107602",
+      "article-title": "Rashba effect in the graphene/Ni(111) system",
+      "volume": "100",
+      "author": "Dedkov",
+      "year": "2008",
+      "journal-title": "Phys. Rev. Lett."
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.physe.2023.115833_bib43",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1093/ptep/ptaa072",
+      "article-title": "Coherent quantum transport through ferromagnetic graphene structures: effects of rashba spin{orbit coupling",
+      "author": "Hasanirokh",
+      "year": "2020",
+      "journal-title": "Progress of Theoretical and Experimental Physics"
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.physe.2023.115833_bib44",
+      "doi-asserted-by": "crossref",
+      "first-page": "871",
+      "DOI": "10.1038/nmat4360",
+      "article-title": "New perspectives for rashba spin-orbit coupling",
+      "volume": "14",
+      "author": "Manchon",
+      "year": "2015",
+      "journal-title": "Nat. Mater."
+    },
+    {
+      "year": "2018",
+      "series-title": "Coupled Charge-Spin Transport and Spin{orbit Phenomena in 2d Dirac Materials",
+      "author": "O_dani",
+      "key": "10.1016/j.physe.2023.115833_bib45"
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib46",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1103/PhysRevLett.103.026804",
+      "article-title": "Impurity-induced spin-orbit coupling in graphene",
+      "volume": "103",
+      "author": "Castro Neto",
+      "year": "2009",
+      "journal-title": "Phys. Rev. Lett."
+    },
+    {
+      "issue": "6963",
+      "key": "10.1016/j.physe.2023.115833_bib47",
+      "doi-asserted-by": "crossref",
+      "first-page": "162",
+      "DOI": "10.1038/nature02073",
+      "article-title": "Non-saturating magnetoresistance in heavily disordered semiconductors",
+      "volume": "426",
+      "author": "Parish",
+      "year": "2003",
+      "journal-title": "Nature"
+    },
+    {
+      "issue": "18",
+      "key": "10.1016/j.physe.2023.115833_bib48",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1063/1.4901175",
+      "article-title": "Classical linear magnetoresistance in epitaxial graphene on SiC",
+      "volume": "105",
+      "author": "Wang",
+      "year": "2014",
+      "journal-title": "Appl. Phys. Lett."
+    },
+    {
+      "key": "10.1016/j.physe.2023.115833_bib49",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1103/PhysRevB.71.201304",
+      "article-title": "Model for a macroscopically disordered conductor with an exactly linear high-field magnetoresistance",
+      "volume": "71",
+      "author": "Guttal",
+      "year": "2005",
+      "journal-title": "Phys. Rev. B"
+    }
+  ],
+  "container-title": [
+    "Physica E: Low-dimensional Systems and Nanostructures"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1386947723001832?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1386947723001832?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        25
+      ]
+    ],
+    "date-time": "2025-10-25T05:04:45Z",
+    "timestamp": 1761368685000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1386947723001832"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1
+      ]
+    ]
+  },
+  "references-count": 49,
+  "alternative-id": [
+    "S1386947723001832"
+  ],
+  "URL": "https://doi.org/10.1016/j.physe.2023.115833",
+  "relation": {},
+  "ISSN": [
+    "1386-9477"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "1386-9477"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        1
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Low-temperature carrier transport in magnetic field in sandwich-like graphene/Co nanoparticles/graphene structure",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Physica E: Low-dimensional Systems and Nanostructures",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.physe.2023.115833",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "\u00a9 2023 Elsevier B.V. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "115833"
 }

@@ -1,5 +1,67 @@
 {
-  "best_oa_location": {
-    "url_for_pdf": "https://fake.pdf"
-  }
+  "doi": "10.1016/j.physe.2023.115833",
+  "doi_url": "https://doi.org/10.1016/j.physe.2023.115833",
+  "title": "Low-temperature carrier transport in magnetic field in sandwich-like graphene/Co nanoparticles/graphene structure",
+  "genre": "journal-article",
+  "is_paratext": false,
+  "published_date": "2023-10-11",
+  "year": 2023,
+  "journal_name": "Physica E Low-dimensional Systems and Nanostructures",
+  "journal_issns": "1386-9477,1873-1759",
+  "journal_issn_l": "1386-9477",
+  "journal_is_oa": false,
+  "journal_is_in_doaj": false,
+  "publisher": "Elsevier BV",
+  "is_oa": false,
+  "oa_status": "closed",
+  "has_repository_copy": false,
+  "best_oa_location": null,
+  "first_oa_location": null,
+  "oa_locations": [],
+  "oa_locations_embargoed": [],
+  "data_standard": 2,
+  "z_authors": [
+    {
+      "author_position": "first",
+      "raw_author_name": "Alexander K. Fedotov",
+      "is_corresponding": true,
+      "raw_affiliation_strings": [
+        "Institute for Nuclear Problems, Belarusian State University, Bobruiskaya Str. 11, Minsk, 220006, Belarus"
+      ]
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "Uladzislaw E. Gumiennik",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "AGH University of Krakow, Faculty of Physics and Applied Computer Science, Mickiewicza Av. 30, Krak\u00f3w, 30-059, Poland",
+        "Institute for Nuclear Problems, Belarusian State University, Bobruiskaya Str. 11, Minsk, 220006, Belarus"
+      ]
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "Julia A. Fedotova",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Institute for Nuclear Problems, Belarusian State University, Bobruiskaya Str. 11, Minsk, 220006, Belarus"
+      ]
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "Janusz Przewo\u017anik",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "AGH University of Krakow, Faculty of Physics and Applied Computer Science, Mickiewicza Av. 30, Krak\u00f3w, 30-059, Poland"
+      ]
+    },
+    {
+      "author_position": "last",
+      "raw_author_name": "Czes\u0142aw Kapusta",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "AGH University of Krakow, Faculty of Physics and Applied Computer Science, Mickiewicza Av. 30, Krak\u00f3w, 30-059, Poland"
+      ]
+    }
+  ],
+  "updated": "2025-10-27T16:35:26Z"
 }

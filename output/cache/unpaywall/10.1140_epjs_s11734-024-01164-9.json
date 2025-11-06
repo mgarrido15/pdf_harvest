@@ -1,5 +1,699 @@
 {
+  "doi": "10.1140/epjs/s11734-024-01164-9",
+  "doi_url": "https://doi.org/10.1140/epjs/s11734-024-01164-9",
+  "title": "Technical Design Report for the LUXE experiment",
+  "genre": "journal-article",
+  "is_paratext": false,
+  "published_date": "2024-10-01",
+  "year": 2024,
+  "journal_name": "The European Physical Journal Special Topics",
+  "journal_issns": "1951-6355,1951-6401",
+  "journal_issn_l": "1951-6355",
+  "journal_is_oa": false,
+  "journal_is_in_doaj": false,
+  "publisher": "Springer Science and Business Media LLC",
+  "is_oa": true,
+  "oa_status": "hybrid",
+  "has_repository_copy": true,
   "best_oa_location": {
-    "url_for_pdf": "https://fake.pdf"
-  }
+    "url": "https://doi.org/10.1140/epjs/s11734-024-01164-9",
+    "url_for_pdf": null,
+    "url_for_landing_page": "https://doi.org/10.1140/epjs/s11734-024-01164-9",
+    "evidence": "deprecated",
+    "license": "cc-by",
+    "version": "publishedVersion",
+    "host_type": "publisher",
+    "is_best": true,
+    "pmh_id": null,
+    "endpoint_id": null,
+    "repository_institution": null,
+    "oa_date": "2024-10-01",
+    "updated": "deprecated"
+  },
+  "first_oa_location": {
+    "url": "https://doi.org/10.1140/epjs/s11734-024-01164-9",
+    "url_for_pdf": null,
+    "url_for_landing_page": "https://doi.org/10.1140/epjs/s11734-024-01164-9",
+    "evidence": "deprecated",
+    "license": "cc-by",
+    "version": "publishedVersion",
+    "host_type": "publisher",
+    "is_best": true,
+    "pmh_id": null,
+    "endpoint_id": null,
+    "repository_institution": null,
+    "oa_date": "2024-10-01",
+    "updated": "deprecated"
+  },
+  "oa_locations": [
+    {
+      "url": "https://doi.org/10.1140/epjs/s11734-024-01164-9",
+      "url_for_pdf": null,
+      "url_for_landing_page": "https://doi.org/10.1140/epjs/s11734-024-01164-9",
+      "evidence": "deprecated",
+      "license": "cc-by",
+      "version": "publishedVersion",
+      "host_type": "publisher",
+      "is_best": true,
+      "pmh_id": null,
+      "endpoint_id": null,
+      "repository_institution": null,
+      "oa_date": "2024-10-01",
+      "updated": "deprecated"
+    },
+    {
+      "url": "https://hdl.handle.net/11577/3540059",
+      "url_for_pdf": null,
+      "url_for_landing_page": "https://hdl.handle.net/11577/3540059",
+      "evidence": "deprecated",
+      "license": "other-oa",
+      "version": "submittedVersion",
+      "host_type": "repository",
+      "is_best": false,
+      "pmh_id": "oai:www.research.unipd.it:11577/3540059",
+      "endpoint_id": "ebkqzhfrceygztdsjokh",
+      "repository_institution": "University of Padua",
+      "oa_date": "2024-10-01",
+      "updated": "deprecated"
+    }
+  ],
+  "oa_locations_embargoed": [],
+  "data_standard": 2,
+  "z_authors": [
+    {
+      "author_position": "first",
+      "raw_author_name": "H. Abramowicz",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Almanza Soto",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Altarelli",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "R. A\u00dfmann",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Athanassiadis",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "G. Avoni",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "T. Behnke",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Benettoni",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "Y. Benhammou",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "J. Bhatt",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "T. Blackburn",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "C. Blanch",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "S. Bonaldo",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "S. Boogert",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "O. Borysov",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Borysova",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "V. Boudry",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "LLR - Laboratoire Leprince-Ringuet (Route de Saclay, 91128 Palaiseau Cedex - France)"
+      ]
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "D. Breton",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "IJCLab - Laboratoire de Physique des 2 Infinis Ir\u00e8ne Joliot-Curie (B\u00e2t. 100 et 200, 15 rue Georges Cl\u00e9menceau 91405 Orsay - France)"
+      ]
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "R. Brinkmann",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Bruschi",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "F. Burkart",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "K. B\u00fc\u00dfer",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "N. Cavanagh",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "F. Dal Corso",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "W. Decking",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Deniaud",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "O. Diner",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "U. Dosselli",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Elad",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "L. Epshteyn",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "D. Esperante",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "T. Ferber",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Firlej",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "T. Fiutowski",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "K. Fleck",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "N. Fuster-Martinez",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "K. Gadow",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "F. Gaede",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Gallas",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "IJCLab - Laboratoire de Physique des 2 Infinis Ir\u00e8ne Joliot-Curie (B\u00e2t. 100 et 200, 15 rue Georges Cl\u00e9menceau 91405 Orsay - France)"
+      ]
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "H. Garcia Cabrera",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "E. Gerstmayr",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "V. Ghenescu",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Giorato",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "N. Golubeva",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "C. Grojean",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "P. Grutta",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "G. Grzelak",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "J. Hallford",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "L. Hartman",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "B. Heinemann",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "T. Heinzl",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "L. Helary",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "L. Hendriks",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Hoffmann",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "D. Horn",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "S. Huang",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "X. Huang",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Idzik",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Irles",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "R. Jacobs",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "B. King",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Klute",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Kropf",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "E. Kroupp",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "H. Lahno",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "F. Lasagni Manghi",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "J. Lawhorn",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Levanon",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Levi",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "L. Levinson",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Levy",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "I. Levy",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Liberman",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "B. Liss",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "B. List",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "J. List",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "W. Lohmann",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "J. Maalmi",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "IJCLab - Laboratoire de Physique des 2 Infinis Ir\u00e8ne Joliot-Curie (B\u00e2t. 100 et 200, 15 rue Georges Cl\u00e9menceau 91405 Orsay - France)"
+      ]
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "T. Madlener",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "V. Malka",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "T. Marsault",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "SPMS - Laboratoire Structures, Propri\u00e9t\u00e9s et Mod\u00e9lisation des solides (CentraleSup\u00e9lec - B\u00e2timent Eiffel - 3 rue Joliot-Curie - 91190 GIF-SUR-YVETTE - France)"
+      ]
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "S. Mattiazzo",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "F. Meloni",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "D. Miron",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Morandin",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "J. Moro\u0144",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "J. Nanni",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "LLR - Laboratoire Leprince-Ringuet (Route de Saclay, 91128 Palaiseau Cedex - France)"
+      ]
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. T. Neagu",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "E. Negodin",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Paccagnella",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "D. Pantano",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "D. Pietruch",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "I. Pomerantz",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "R. P\u00f6schl",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "IJCLab - Laboratoire de Physique des 2 Infinis Ir\u00e8ne Joliot-Curie (B\u00e2t. 100 et 200, 15 rue Georges Cl\u00e9menceau 91405 Orsay - France)"
+      ]
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "P. M. Potlog",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "R. Prasad",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "R. Quishpe",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "E. Ranken",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Ringwald",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Roich",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    }
+  ],
+  "updated": "2025-10-23T16:56:47Z"
 }

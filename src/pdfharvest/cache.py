@@ -1,4 +1,3 @@
-# src/pdfharvest/cache.py
 from pathlib import Path
 import json, pathlib, re
 

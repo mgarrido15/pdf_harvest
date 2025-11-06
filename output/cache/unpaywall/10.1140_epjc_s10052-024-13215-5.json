@@ -1,5 +1,813 @@
 {
+  "doi": "10.1140/epjc/s10052-024-13215-5",
+  "doi_url": "https://doi.org/10.1140/epjc/s10052-024-13215-5",
+  "title": "Constraints on simplified dark matter models involving an s-channel mediator with the ATLAS detector in pp collisions at $$\\sqrt{s} = 13$$\u00a0TeV",
+  "genre": "journal-article",
+  "is_paratext": false,
+  "published_date": "2024-10-24",
+  "year": 2024,
+  "journal_name": "The European Physical Journal C",
+  "journal_issns": "1434-6044,1434-6052",
+  "journal_issn_l": "1434-6044",
+  "journal_is_oa": true,
+  "journal_is_in_doaj": true,
+  "publisher": "Springer Science and Business Media LLC",
+  "is_oa": true,
+  "oa_status": "gold",
+  "has_repository_copy": true,
   "best_oa_location": {
-    "url_for_pdf": "https://fake.pdf"
-  }
+    "url": "https://escholarship.org/uc/item/7qr9x6hs",
+    "url_for_pdf": null,
+    "url_for_landing_page": "https://escholarship.org/uc/item/7qr9x6hs",
+    "evidence": "deprecated",
+    "license": "cc-by-nc",
+    "version": "submittedVersion",
+    "host_type": null,
+    "is_best": true,
+    "pmh_id": "oai:escholarship.org:ark:/13030/qt7qr9x6hs",
+    "endpoint_id": null,
+    "repository_institution": null,
+    "oa_date": "2024-10-24",
+    "updated": "deprecated"
+  },
+  "first_oa_location": {
+    "url": "https://escholarship.org/uc/item/7qr9x6hs",
+    "url_for_pdf": null,
+    "url_for_landing_page": "https://escholarship.org/uc/item/7qr9x6hs",
+    "evidence": "deprecated",
+    "license": "cc-by-nc",
+    "version": "submittedVersion",
+    "host_type": null,
+    "is_best": true,
+    "pmh_id": "oai:escholarship.org:ark:/13030/qt7qr9x6hs",
+    "endpoint_id": null,
+    "repository_institution": null,
+    "oa_date": "2024-10-24",
+    "updated": "deprecated"
+  },
+  "oa_locations": [
+    {
+      "url": "https://escholarship.org/uc/item/7qr9x6hs",
+      "url_for_pdf": null,
+      "url_for_landing_page": "https://escholarship.org/uc/item/7qr9x6hs",
+      "evidence": "deprecated",
+      "license": "cc-by-nc",
+      "version": "submittedVersion",
+      "host_type": null,
+      "is_best": true,
+      "pmh_id": "oai:escholarship.org:ark:/13030/qt7qr9x6hs",
+      "endpoint_id": null,
+      "repository_institution": null,
+      "oa_date": "2024-10-24",
+      "updated": "deprecated"
+    },
+    {
+      "url": "https://link.springer.com/content/pdf/10.1140/epjc/s10052-024-13215-5.pdf",
+      "url_for_pdf": "https://link.springer.com/content/pdf/10.1140/epjc/s10052-024-13215-5.pdf",
+      "url_for_landing_page": "https://doi.org/10.1140/epjc/s10052-024-13215-5",
+      "evidence": "deprecated",
+      "license": "cc-by",
+      "version": "publishedVersion",
+      "host_type": "publisher",
+      "is_best": false,
+      "pmh_id": null,
+      "endpoint_id": null,
+      "repository_institution": null,
+      "oa_date": "2024-10-24",
+      "updated": "deprecated"
+    },
+    {
+      "url": "https://resolver.sub.uni-goettingen.de/purl?gro-2/145966",
+      "url_for_pdf": null,
+      "url_for_landing_page": "https://resolver.sub.uni-goettingen.de/purl?gro-2/145966",
+      "evidence": "deprecated",
+      "license": "other-oa",
+      "version": "publishedVersion",
+      "host_type": null,
+      "is_best": false,
+      "pmh_id": "oai:publications.goettingen-research-online.de:2/145966",
+      "endpoint_id": null,
+      "repository_institution": null,
+      "oa_date": "2024-10-24",
+      "updated": "deprecated"
+    },
+    {
+      "url": "http://hdl.handle.net/10261/395345",
+      "url_for_pdf": null,
+      "url_for_landing_page": "http://hdl.handle.net/10261/395345",
+      "evidence": "deprecated",
+      "license": "other-oa",
+      "version": "acceptedVersion",
+      "host_type": "repository",
+      "is_best": false,
+      "pmh_id": "oai:digital.csic.es:10261/395345",
+      "endpoint_id": "44a1239c3d129d3f6fd",
+      "repository_institution": "Consejo Superior de Investigaciones Cient\u00edficas",
+      "oa_date": "2024-10-24",
+      "updated": "deprecated"
+    },
+    {
+      "url": "http://hdl.handle.net/10852/114232",
+      "url_for_pdf": null,
+      "url_for_landing_page": "http://hdl.handle.net/10852/114232",
+      "evidence": "deprecated",
+      "license": "other-oa",
+      "version": "submittedVersion",
+      "host_type": "repository",
+      "is_best": false,
+      "pmh_id": "oai:www.duo.uio.no:10852/114232",
+      "endpoint_id": "2a475454c4eff8bfce2",
+      "repository_institution": "University of Oslo",
+      "oa_date": "2024-10-24",
+      "updated": "deprecated"
+    },
+    {
+      "url": "https://hdl.handle.net/11585/1009869",
+      "url_for_pdf": null,
+      "url_for_landing_page": "https://hdl.handle.net/11585/1009869",
+      "evidence": "deprecated",
+      "license": "other-oa",
+      "version": "submittedVersion",
+      "host_type": "repository",
+      "is_best": false,
+      "pmh_id": "oai:cris.unibo.it:11585/1009869",
+      "endpoint_id": "fhisxppmrqpajgzqkvft",
+      "repository_institution": "Istituto di Ematologia di Bologna",
+      "oa_date": "2024-10-24",
+      "updated": "deprecated"
+    },
+    {
+      "url": "https://hdl.handle.net/2434/1115310",
+      "url_for_pdf": null,
+      "url_for_landing_page": "https://hdl.handle.net/2434/1115310",
+      "evidence": "deprecated",
+      "license": "other-oa",
+      "version": "submittedVersion",
+      "host_type": "repository",
+      "is_best": false,
+      "pmh_id": "oai:air.unimi.it:2434/1115310",
+      "endpoint_id": "a98c2c958414462f081",
+      "repository_institution": "University of Milan",
+      "oa_date": "2024-10-24",
+      "updated": "deprecated"
+    },
+    {
+      "url": "https://qmro.qmul.ac.uk/xmlui/handle/123456789/101829",
+      "url_for_pdf": null,
+      "url_for_landing_page": "https://qmro.qmul.ac.uk/xmlui/handle/123456789/101829",
+      "evidence": "deprecated",
+      "license": "cc-by",
+      "version": "submittedVersion",
+      "host_type": "repository",
+      "is_best": false,
+      "pmh_id": "oai:qmro.qmul.ac.uk:123456789/101829",
+      "endpoint_id": "6fd301eedf33cb3712e",
+      "repository_institution": "Queen Mary University of London",
+      "oa_date": "2024-10-24",
+      "updated": "deprecated"
+    },
+    {
+      "url": "https://repositorio.uam.es/bitstream/10486/720442/1/10310265.pdf",
+      "url_for_pdf": "https://repositorio.uam.es/bitstream/10486/720442/1/10310265.pdf",
+      "url_for_landing_page": "http://hdl.handle.net/10486/720442",
+      "evidence": "deprecated",
+      "license": "cc-by",
+      "version": "submittedVersion",
+      "host_type": "repository",
+      "is_best": false,
+      "pmh_id": "oai:repositorio.uam.es:10486/720442",
+      "endpoint_id": "5618341009c77354ccd",
+      "repository_institution": "Universidad Aut\u00f3noma de Madrid",
+      "oa_date": "2024-10-24",
+      "updated": "deprecated"
+    },
+    {
+      "url": "www.osti.gov/servlets/purl/2530311",
+      "url_for_pdf": null,
+      "url_for_landing_page": "www.osti.gov/servlets/purl/2530311",
+      "evidence": "deprecated",
+      "license": null,
+      "version": "submittedVersion",
+      "host_type": "repository",
+      "is_best": false,
+      "pmh_id": "oai:osti.gov:2530311",
+      "endpoint_id": "rxvVMHMKBKeG3hsnTZpz",
+      "repository_institution": "Office of Scientific and Technical Information",
+      "oa_date": "2024-10-24",
+      "updated": "deprecated"
+    }
+  ],
+  "oa_locations_embargoed": [],
+  "data_standard": 2,
+  "z_authors": [
+    {
+      "author_position": "first",
+      "raw_author_name": "G. Aad",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "CPPM - Centre de Physique des Particules de Marseille (163, avenue de Luminy - Case 902 - 13288 Marseille cedex 09 - France)"
+      ]
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "E. Aakvaag",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "B. Abbott",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "S. Abdelhameed",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "K. Abeling",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "N. J. Abicht",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "S. H. Abidi",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Aboelela",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Aboulhorma",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "H. Abramowicz",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "H. Abreu",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "Y. Abulaiti",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "B. S. Acharya",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Ackermann",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "C. Adam Bourdarios",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "LAPP - Laboratoire d'Annecy de Physique des Particules (9 Chemin de Bellevue - BP 110 - 74941 Annecy-le-Vieux CEDEX - France - France)"
+      ]
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "L. Adamczyk",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "S. V. Addepalli",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. J. Addison",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "J. Adelman",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Adiguzel",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "T. Adye",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. A. Affolder",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "Y. Afik",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. N. Agaras",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "J. Agarwala",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Aggarwal",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "C. Agheorghiesei",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "F. Ahmadov",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "W. S. Ahmed",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "S. Ahuja",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "X. Ai",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "G. Aielli",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Aikot",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Ait Tamlihat",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "B. Aitbenchikh",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Akbiyik",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "T. P. A. \u00c5kesson",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. V. Akimov",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "D. Akiyama",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "N. N. Akolkar",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "S. Aktas",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "K. Al Khoury",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "G. L. Alberghi",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "J. Albert",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "P. Albicocco",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "G. L. Albouy",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "LPSC - Laboratoire de Physique Subatomique et de Cosmologie (53 avenue des Martyrs - 38026 Grenoble Cedex - France)"
+      ]
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "S. Alderweireldt",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "Z. L. Alegria",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Aleksa",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "I. N. Aleksandrov",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "C. Alexa",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "T. Alexopoulos",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "F. Alfonsi",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Algren",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Alhroob",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "B. Ali",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "H. M. J. Ali",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "S. Ali",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "S. W. Alibocus",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Aliev",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "G. Alimonti",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "W. Alkakhi",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "C. Allaire",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "IJCLab - Laboratoire de Physique des 2 Infinis Ir\u00e8ne Joliot-Curie (B\u00e2t. 100 et 200, 15 rue Georges Cl\u00e9menceau 91405 Orsay - France)"
+      ]
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "B. M. M. Allbrooke",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "J. F. Allen",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "C. A. Allendes Flores",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "P. P. Allport",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Aloisio",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "F. Alonso",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "C. Alpigiani",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "Z. M. K. Alsolami",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Alvarez Estevez",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Alvarez Fernandez",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Alves Cardoso",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. G. Alviggi",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Aly",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "Y. Amaral Coutinho",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Ambler",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "C. Amelung",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Amerl",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "C. G. Ames",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "D. Amidei",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "K. J. Amirie",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "S. P. Amor Dos Santos",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "K. R. Amos",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "S. An",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "V. Ananiev",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "C. Anastopoulos",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "T. Andeen",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "J. K. Anders",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. C. Anderson",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "S. Y. Andrean",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Andreazza",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "S. Angelidakis",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Angerami",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. V. Anisenkov",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "A. Annovi",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "C. Antel",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "E. Antipov",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    },
+    {
+      "author_position": "middle",
+      "raw_author_name": "M. Antonelli",
+      "is_corresponding": false,
+      "raw_affiliation_strings": []
+    }
+  ],
+  "updated": "2025-11-06T05:33:38Z"
 }

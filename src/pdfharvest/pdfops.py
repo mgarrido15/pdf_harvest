@@ -1,4 +1,3 @@
-# src/pdfharvest/pdfops.py
 from pathlib import Path
 import pathlib, logging, shutil
 from pypdf import PdfReader 
