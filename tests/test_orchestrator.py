@@ -1,4 +1,3 @@
-# tests/test_orchestrator.py
 import pytest
 from unittest.mock import AsyncMock, patch
 from pdfharvest.orchestrator import run_batch
@@ -21,5 +20,5 @@ async def test_run_batch_dry_run(monkeypatch, tmp_path):
 
     mock_fetch_crossref.assert_called()
     mock_fetch_unpaywall.assert_called()
-    # En dry_run no debe descargar PDFs
+    
     mock_download_pdf.assert_not_called()

@@ -6,7 +6,7 @@ from pdfharvest.cli import cli
 runner = CliRunner()
 
 def test_cli_run_dry_run(monkeypatch, tmp_path):
-    """Test CLI execution with --dry-run flag."""
+
 
     config_path = tmp_path / "config.yaml"
     config_path.write_text("""
