@@ -4,7 +4,7 @@ import yaml
 from pdfharvest.config import load_config, AppConfig
 
 def test_load_config(tmp_path: Path):
-    # Creamos un archivo YAML temporal
+   
     cfg_data = {
         "email": "test@example.com",
         "data_dir": str(tmp_path / "data"),

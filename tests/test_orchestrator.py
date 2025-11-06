@@ -8,7 +8,7 @@ from pdfharvest.config import AppConfig
 async def test_run_batch_dry_run(monkeypatch, tmp_path):
     cfg = AppConfig(data_dir=tmp_path, email="test@example.com")
 
-    # Simulamos las funciones HTTP
+
     mock_fetch_crossref = AsyncMock(return_value={"title": "Fake Paper"})
     mock_fetch_unpaywall = AsyncMock(return_value={"best_oa_location": {"url_for_pdf": "https://fake.pdf"}})
     mock_download_pdf = AsyncMock(return_value=True)

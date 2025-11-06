@@ -20,10 +20,8 @@ def test_best_pdf_url_fallback_to_oa():
 
 @pytest.mark.asyncio
 async def test_download_pdf(tmp_path: Path):
-    # Creamos un archivo "PDF falso" en un servidor local simulado
-    # Pero aquí no tenemos red, así que simulamos el resultado
+
     out_path = tmp_path / "fake.pdf"
     async with httpx.AsyncClient() as client:
-        # Como no hay conexión, el download fallará pero no debe lanzar excepción
         ok = await download_pdf(client, "https://nonexistent.example/fake.pdf", out_path)
         assert ok is False

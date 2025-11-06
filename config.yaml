@@ -1,0 +1,41 @@
+email: "laurasancho024@gmail.com"
+input_excel: "doi_data_pite_2025.xlsx"
+doi_column: "doi"
+data_dir: "data"
+
+
+strings:
+  - "Excellence Initiative – Research University"
+  - "IDUB"
+  - "AGH University"
+
+output_dir: "output"
+
+batch_size: 5
+concurrency: 5
+
+folders:
+  downloads: "downloads"
+  found: "output_found"
+  notfound: "output_notfound"
+
+cache:
+  enabled: true
+  force_refresh: false
+write_after_each_batch: true
+
+timeouts:
+  connect: 15
+  read: 30
+
+http:
+  user_agent: "doi-harvest/2.0 (+laurasancho024@gmail.com)"
+  max_keepalive: 20
+  max_connections: 20
+
+logging:
+  level: "INFO"
+  file: "harvest.log"
+  rotate_bytes: 10485760    
+  backup_count: 5
+

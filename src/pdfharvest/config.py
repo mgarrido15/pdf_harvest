@@ -1,14 +1,29 @@
 
 # src/pdfharvest/config.py
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 import yaml
+from typing import Dict, Any
 
 @dataclass
 class AppConfig:
     data_dir: Path
     email: str
+    output_dir: Path = Path("./output")
     concurrency: int = 5
+    batch_size: int = 5
+    input_excel: Path = Path("doi_data_pite_2025.xlsx") 
+    doi_column: str = "doi" 
+
+    folders: Dict[str, str] = field(default_factory=lambda: {
+        "downloads": "downloads",
+        "found": "output_found",
+        "notfound": "output_notfound"
+    })
+    cache: Dict[str, Any] = field(default_factory=lambda: {
+        "enabled": True,
+        "force_refresh": False
+    })
 
 def load_config(path: str | Path) -> AppConfig:
     """Load YAML config file."""
@@ -16,49 +31,10 @@ def load_config(path: str | Path) -> AppConfig:
     with path.open("r", encoding="utf-8") as f:
         data = yaml.safe_load(f)
     return AppConfig(
-        data_dir=Path(data.get("data_dir", "./data")),
+        data_dir=Path(data.get("data_dir")),
         email=data["email"],
         concurrency=data.get("concurrency", 5),
     )
 
 
 
-'''
-email: "laurasancho024@gmail.com"
-input_excel: "data/doi1.xlsx"
-doi_column: "doi"
-
-# What to search for in PDFs (case-insensitive)
-strings:
-  - "Excellence Initiative – Research University"
-  - "IDUB"
-  - "AGH University"
-
-output_dir: "output"
-
-# NEW: batch and intra-batch parallelism
-batch_size: 5             # download up to 5 PDFs, then pause and process them
-concurrency: 5            # max concurrent DOI prep inside a batch
-
-# Folders (relative to output_dir)
-folders:
-  downloads: "downloads"        # staging folder for freshly downloaded PDFs
-  found: "output_found"         # final destination if a match is found
-  notfound: "output_notfound"   # final destination if no match
-
-# Caching and reporting
-cache:
-  enabled: true
-  force_refresh: false
-write_after_each_batch: true
-
-# Networking
-timeouts:
-  connect: 15
-  read: 30
-http:
-  user_agent: "doi-harvest/2.0 (+szumlak@agh.edu.edu)"
-  max_keepalive: 20
-  max_connections: 20
-
-  '''

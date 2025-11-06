@@ -11,6 +11,7 @@ src/pdfharvest/pdfops.py
 src/pdfharvest.egg-info/PKG-INFO
 src/pdfharvest.egg-info/SOURCES.txt
 src/pdfharvest.egg-info/dependency_links.txt
+src/pdfharvest.egg-info/entry_points.txt
 src/pdfharvest.egg-info/requires.txt
 src/pdfharvest.egg-info/top_level.txt
 tests/test_config.py

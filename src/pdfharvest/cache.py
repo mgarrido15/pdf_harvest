@@ -1,6 +1,6 @@
 # src/pdfharvest/cache.py
 from pathlib import Path
-import json
+import json, pathlib, re
 
 def cache_write(path: Path, data: dict) -> None:
     """Write JSON data to cache."""
@@ -15,3 +15,10 @@ def cache_read(path: Path) -> dict:
         return json.loads(path.read_text(encoding="utf-8"))
     except json.JSONDecodeError:
         return {}
+
+def cache_path(base: pathlib.Path, ns: str, doi: str) -> pathlib.Path:
+    return base / "cache" / ns / f"{sanitize_filename(doi)}.json"
+
+def sanitize_filename(s: str) -> str:
+    s = s.strip().replace("doi:", "").replace("DOI:", "")
+    return re.sub(r"[^A-Za-z0-9._-]+", "_", s)
