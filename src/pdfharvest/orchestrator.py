@@ -9,6 +9,21 @@ from pdfharvest.http import fetch_crossref, fetch_unpaywall, best_pdf_url, downl
 from pdfharvest.pdfops import search_pdf, move_pdf_atomic
 from pdfharvest.cache import cache_path, cache_read, cache_write, sanitize_filename
 
+
+"""
+    Prepare and process a single DOI: fetch metadata, check open access, and download PDF.
+
+    Args:
+        doi (str)
+        cfg (AppConfig)
+        api_client (httpx.AsyncClient)
+        pdf_client (httpx.AsyncClient)
+        out_dir (Path)
+        dry_run (bool, optional)
+
+    Returns:
+        dict: Processed record containing DOI metadata, file paths, and match results.
+"""
 async def prepare_one(
     doi: str,
     cfg: Any,
@@ -69,6 +84,20 @@ async def prepare_one(
     }
 
 
+"""
+    Process a list of PDF download tasks (a single batch): download, validate and move to final location.
+
+    Args:
+        tasks (list[dict])
+        pdf_client (httpx.AsyncClient)
+        out_dir (Path)
+        concurrency (int, optional)
+        validate_pdf (Callable[[Path], bool], optional)
+
+    Returns:
+        list[dict]: List of updated task dictionaries with download status and any error messages added under keys like 'download_ok' and 'download_error'.
+"""
+
 async def process_batch_pdfs(rows: List[Dict[str, Any]], cfg: Any, out_dir: Path):
     log = logging.getLogger("pdfharvest.orchestrator")
     needles = getattr(cfg, "strings", [])
@@ -91,6 +120,17 @@ async def process_batch_pdfs(rows: List[Dict[str, Any]], cfg: Any, out_dir: Path
         r["pdf_final_path"] = str(final_path)
 
 
+
+"""
+    Process all DOIs in batches asynchronously, coordinating downloads and metadata extraction.
+
+    Args:
+        cfg (AppConfig)
+        dry_run (bool, optional)
+
+    Returns:
+        None: Results are written incrementally to output files.
+"""
 async def run_batch(cfg: Any, dry_run: bool = False):
     log = logging.getLogger("pdfharvest.orchestrator")
     out_dir = Path(cfg.output_dir) if hasattr(cfg, "output_dir") else Path("output")

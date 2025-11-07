@@ -3,6 +3,17 @@ import logging.handlers
 from pathlib import Path
 from typing import Dict, Any
 
+
+"""
+    Configure logging for the application, including console and rotating file handlers.
+
+    Args:
+        cfg (Dict[str, Any])
+        out_dir (Path)
+
+    Returns:
+        logging.Logger: Configured root logger instance for the application.
+"""
 def setup_logging(cfg: Dict[str, Any], out_dir: Path):
     log_cfg = cfg.get("logging", {}) if isinstance(cfg, dict) else {}
     level = getattr(logging, log_cfg.get("level", "INFO").upper(), logging.INFO)

@@ -4,7 +4,7 @@ from pdfharvest.orchestrator import run_batch
 from pdfharvest.config import AppConfig
 
 @pytest.mark.asyncio
-async def test_run_batch_dry_run(monkeypatch, tmp_path):
+async def test_run_batch_dry_run(tmp_path):
     cfg = AppConfig(data_dir=tmp_path, email="test@example.com")
 
 
