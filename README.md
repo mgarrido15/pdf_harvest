@@ -40,7 +40,8 @@ It leverages the Crossref and Unpaywall APIs to gather bibliographic information
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/pdf_harvest.git
+git clone https://github.com/mgarrido15/pdf_harvest.git
+
 
 
 
