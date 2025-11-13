@@ -7,7 +7,7 @@ import httpx
 
 from pdfharvest.http import fetch_crossref, fetch_unpaywall, best_pdf_url, download_pdf
 from pdfharvest.pdfops import search_pdf, move_pdf_atomic
-from pdfharvest.cache import cache_path, cache_read, cache_write, sanitize_filename
+from pdfharvest.cache import cache_path, cache_read, cache_write, sanitize_doi
 
 
 """
@@ -53,7 +53,7 @@ async def prepare_one(
     temp_pdf = ""
 
     if pdf_url:
-        out_path = downloads / f"{sanitize_filename(doi)}.pdf"
+        out_path = downloads / f"{sanitize_doi(doi)}.pdf"
         if not dry_run:
             ok = await download_pdf(pdf_client, pdf_url, out_path)
             if ok:
@@ -183,3 +183,4 @@ async def run_batch(cfg: Any, dry_run: bool = False):
     out_df.to_csv(out_dir / "report.csv", index=False, encoding="utf-8")
     log.info(f"Done. Total DOIs processed: {len(all_rows)}")
     return all_rows
+
